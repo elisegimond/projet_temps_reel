@@ -34,4 +34,4 @@ You can see screenshot of the graph in pareto_front.png.
 
 We can see that the 4th solution is dominated by all the others.
 
-![alt text](image.png)
+![alt text](pareto_front.png)
